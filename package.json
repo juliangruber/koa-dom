@@ -1,0 +1,33 @@
+{
+  "name": "koa-dom",
+  "description": "Dom templating for koa.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/koa-dom.git"
+  },
+  "homepage": "https://github.com/juliangruber/koa-dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "hyperstream": "~0.3.1"
+  },
+  "devDependencies": {
+    "tape": "*",
+    "koa": "0.0.1",
+    "koa-compose": "~1.0.0"
+  },
+  "keywords": [
+    "koa",
+    "templating",
+    "dom"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
