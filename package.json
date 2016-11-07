@@ -12,12 +12,12 @@
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "hyperstream": "~0.3.1"
+    "hyperstream": "~1.2.2"
   },
   "devDependencies": {
     "tape": "*",
-    "koa": "0.0.1",
-    "koa-compose": "~1.0.0"
+    "koa": "1.2.4",
+    "koa-compose": "~2.5.1"
   },
   "keywords": [
     "koa",
