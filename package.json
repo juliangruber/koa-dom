@@ -15,7 +15,7 @@
     "hyperstream": "~1.2.2"
   },
   "devDependencies": {
-    "tape": "*",
+    "tape": ">=4.6.3",
     "koa": "1.2.4",
     "koa-compose": "~2.5.1"
   },
