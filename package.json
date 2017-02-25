@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "tape": "*",
-    "koa": "1.2.4",
+    "koa": "2.0.1",
     "koa-compose": "~2.5.1"
   },
   "keywords": [
